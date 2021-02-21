@@ -31,7 +31,7 @@ namespace ClassIntro
                 Console.WriteLine(kurs.Kursadi + " : " + kurs.Eğitmen);
             }
 
-            //  Console.WriteLine(kurs1.Kursadi + " : " + kurs1.Eğitmen);
+            //  Console.WriteLine(kurs1.Kursadi + " : " + kurs1.Eğitmen);  //değişiklik deneme
         }
     }
     class Kurs
