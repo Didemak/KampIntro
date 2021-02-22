@@ -25,6 +25,7 @@ namespace GenericsIntro
 
             items[items.Length - 1] = item; //en son kutu boş kaldı o kutuya item ı yazdırdık.
 
+
         }
 
     }
