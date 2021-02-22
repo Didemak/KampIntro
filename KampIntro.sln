@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{7F11B41A-6172-467F-8E99-B6F72FAA227F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{40293570-F2A9-4986-B9B7-B484EBAE8138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7F11B41A-6172-467F-8E99-B6F72FAA227F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F11B41A-6172-467F-8E99-B6F72FAA227F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F11B41A-6172-467F-8E99-B6F72FAA227F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40293570-F2A9-4986-B9B7-B484EBAE8138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40293570-F2A9-4986-B9B7-B484EBAE8138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40293570-F2A9-4986-B9B7-B484EBAE8138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40293570-F2A9-4986-B9B7-B484EBAE8138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
