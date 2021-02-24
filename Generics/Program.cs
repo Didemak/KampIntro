@@ -7,7 +7,7 @@ namespace Generics
     {
         static void Main(string[] args)
         {
-            List<string> sehirler = new List<string>(); //stringin içine int yazsaydın int olarak parametreyi verecektin
+            List<string,int> sehirler = new List<string,int>(); //stringin içine int yazsaydın int olarak parametreyi verecektin
             sehirler.Add("Ankara");
             sehirler.Add("Ankara");
             sehirler.Add("Ankara");
@@ -26,7 +26,7 @@ namespace Generics
             Console.WriteLine(sehirler2.Count);//count oluşturduk artık kaç elemanlı olduğunu yazırıcak
        
         }
-    }
+    }ggfffffffftrtrtr
 
     class MyList<T> //random bir şey de yazabilirsin sadece tip kullanıcağımı belirtmek için bir şey yazdım                      //GENERICS CLASS 
     {
