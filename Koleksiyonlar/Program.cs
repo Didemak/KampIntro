@@ -25,8 +25,12 @@ namespace Koleksiyonlar
             Console.WriteLine(isimler2[2]);
             Console.WriteLine(isimler2[3]);
 
+            Console.WriteLine("---------------------------");
+
+            isimler2.Add("İlker"); //add den ilkeri eklesik ve üstekiler tekrar newlenmediği için silinmdi
             Console.WriteLine(isimler2[4]);
-            Console.WriteLine(isimler2[0]);
+            Console.WriteLine(isimler2[3]);
+
 
 
         }
